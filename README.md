@@ -1,7 +1,7 @@
-# Bank-Churners-analysis
+# Bank-Churners-analysis📃
 This repository contains the SQL file  of bank churners
 
-## Objective:
+## 📌Objective:
 The main objective of this project is to analyze the data and predict who is going to get churned so that we can proactively go to the customer to provide them better services and turn customer's decisions in the opposite direction.
 
 * To publish the findings based on data analysis.
@@ -19,7 +19,7 @@ The main objective of this project is to analyze the data and predict who is goi
 --> Education level
 --> Average utilisation
 
-## Key Takeaway:-
+## 📌Key Takeaway:-
 
 1)The number of customers attriting in the age range of '40-50' years is highest followed by 50-60 years.
 
